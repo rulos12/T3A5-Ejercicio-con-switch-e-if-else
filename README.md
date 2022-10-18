@@ -18,11 +18,22 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 - Entrada:
    - String numerodetarjeta
    - int pin
+   - float saldo
    - adicional: nombre, emali, telefono
 - Proceso:
    - validar los datos ingresados: numero de tarjetas y pin
    - Mostrar un menú de opciones del cajero automatico 
 - Salida
-
++--------------------------------------------------------+
+|                       **Banco
+|     Numero de de tarjeta
+|
+|
+|
+|
+|
+|
+|
+|
 
 
