@@ -24,6 +24,7 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
    - validar los datos ingresados: numero de tarjetas y pin
    - Mostrar un menú de opciones del cajero automatico 
 - Salida
+
 +--------------------------------------------------------+
 |                       **Banco
 |     Numero de de tarjeta
