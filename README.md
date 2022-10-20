@@ -36,5 +36,7 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 |
 |
 |
+## Etapa 3. 
+![](https://github.com/rulos12/T3A5-Ejercicio-con-switch-e-if-else/blob/main/Cuenta.png)
 
 
