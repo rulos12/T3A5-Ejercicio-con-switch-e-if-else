@@ -24,19 +24,21 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
    - validar los datos ingresados: numero de tarjetas y pin
    - Mostrar un menú de opciones del cajero automatico 
 - Salida
-
+~~~
 +--------------------------------------------------------+
-|                       **Banco
-|     Numero de de tarjeta
-|
-|
-|
-|
-|
-|
-|
-|
-## Etapa 3. 
+|                  **Bienvenido a bancomer
+|     Menu
+|  1.-Consultar saldo
+|  2.-Consultar estado de cuenta 
+|  3.-Retirar efectivo
+|  4.-Otras opciones
+|  5.Salir
++--------------------------------------------------------+
+~~~
+## Etapa 3. Especificaciones 
 ![](https://github.com/rulos12/T3A5-Ejercicio-con-switch-e-if-else/blob/main/Cuenta.png)
+
+## Etapa 4. Solución
+![]()
 
 
