@@ -32,6 +32,8 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 |  2.-Consultar estado de cuenta                         |
 |  3.-Retirar efectivo                                   |  
 |  4.-Otras opciones                                     |
+|     1.Seguros                                          |
+|     2.Créditos                                         |
 |  5.Salir                                               |
 +--------------------------------------------------------+
 ~~~
@@ -39,6 +41,6 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 ![](https://github.com/rulos12/T3A5-Ejercicio-con-switch-e-if-else/blob/main/Cuenta.png)
 
 ## Etapa 4. Solución
-![](https://github.com/rulos12/T3A5-Ejercicio-con-switch-e-if-else/blob/main/T3A5.zip)
+https://github.com/rulos12/T3A5-Ejercicio-con-switch-e-if-else/blob/main/T3A5.zip
 
 
