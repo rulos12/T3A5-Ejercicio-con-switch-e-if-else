@@ -1,5 +1,5 @@
 # T3A5-Ejercicio-con-switch-e-if-else
-## Etapa 1. Descripción deñ problema 
+## Etapa 1. Descripción del problema 
 Desarrolla una aplicación de cajero automático en Java en la cual se muestre un menú para seleccionar la operación requerida por el usuario:
 
 - El usuario debe ingresar su tarjeta (número y NIP) para ingresar al menú principal, en caso de que no coincida con sus datos entonces deberá mostrar una alerta donde le indique que sus datos son erróneos.
